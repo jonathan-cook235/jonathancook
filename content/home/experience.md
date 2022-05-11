@@ -46,7 +46,7 @@ experience:
     location: London, United Kingdom
     date_start: '2021-04-05'
     date_end: '2021-06-11'
-    description: Worked with two United Nations agencies (ITU and UNICEF) to predictively map the global offline population.
+    description: Worked with investors, entrepreneurs, academics and MBA students to uncover real-world applications of my prior research in machine learning applied to social media analysis.
 
 design:
   columns: '2'
