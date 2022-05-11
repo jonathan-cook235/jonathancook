@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: DPhil Autonomous Intelligent Machines and Systems (CDT)
+    - course: DPhil in Autonomous Intelligent Machines and Systems (CDT)
       institution: University of Oxford
       year: Commencing October 2022
     - course: MSc in Computational Statistics and Machine Learning
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jonathan.cook.18@ucl.ac.uk'
