@@ -25,7 +25,7 @@ experience:
   - title: Student Researcher
     company: UCL DARK Lab
     company_url: 'https://dark.cs.ucl.ac.uk'
-    company_logo: org-gc
+    company_logo: logo
     location: London, United Kingdom
     date_start: '2021-11-01'
     date_end: ''
