@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Student Researcher
+    company: UCL DARK Lab
+    company_url: 'https://dark.cs.ucl.ac.uk'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: London, United Kingdom
+    date_start: '2021-11-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Researching generalisation in multi-agent reinforcement learning under the supervision of Prof. Tim Rocktäschel.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Data Science for Social Good Fellow
+    company: DSSG Foundation
+    company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/dssgx2021/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Remote
+    date_start: '2021-06-14'
+    date_end: '2021-08-27'
+    description: Worked with two United Nations agencies (ITU and UNICEF) to predictively map the global offline population.
+    
+  - title: Ideas-to-Opportunities Programme
+    company: UCL Technology Fund x London Business School
+    company_url: ''
+    location: London, United Kingdom
+    date_start: '2021-04-05'
+    date_end: '2021-06-11'
+    description: Worked with two United Nations agencies (ITU and UNICEF) to predictively map the global offline population.
 
 design:
   columns: '2'
