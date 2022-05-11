@@ -72,4 +72,4 @@ highlight_name: true
 
 I am currently a Master's student of Computational Statistics and Machine Learning at UCL, for which I am incredibly grateful to be funded and mentored by DeepMind. I spend time at the UCL AI Centre, where I am supervised by Prof. Tim Rocktäschel at UCL Deciding, Acting and Reasoning with Knowledge (DARK) Lab. Right now, my research focusses on the generalisation capabilities of deep multi-agent reinforcement learning models, but I am also deeply interested in the Collaborative AI research agenda; the problem of human-AI coordination in real-world systems; and how artificial agents can learn grounded communication strategies. I am excited to explore these and other problems further when I begin studying for a PhD on the Autonomous Intelligent Machines and Systems CDT at the University of Oxford, starting this Autumn.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
