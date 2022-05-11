@@ -25,7 +25,7 @@ experience:
   - title: Student Researcher
     company: UCL DARK Lab
     company_url: 'https://dark.cs.ucl.ac.uk'
-    company_logo: logo
+    # company_logo: logo
     location: London, United Kingdom
     date_start: '2021-11-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Data Science for Social Good Fellow
     company: DSSG Foundation
     company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/dssgx2021/'
-    company_logo: org-x
+    # company_logo: org-x
     location: Remote
     date_start: '2021-06-14'
     date_end: '2021-08-27'
