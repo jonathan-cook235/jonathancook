@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Natural Language Processing
+      tag: NLP
+    - name: Reinforcement Learning
+      tag: RL
     - name: Other
       tag: Demo
 
