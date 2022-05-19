@@ -18,8 +18,8 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com/jonathan-cook235/DSSGxUK-ITU'
-url_docs: 'https://dssgxuk.github.io/itu/'
-url_slides: ''
+url_pdf: ''
+url_slides: 'https://dssgxuk.github.io/itu/'
 url_video: ''
 
 # Slides (optional).
