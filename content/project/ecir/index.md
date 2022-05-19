@@ -3,7 +3,7 @@ title: Detecting and Forecasting Fake News with Deep Learning
 summary: Built a dynamic graph neural network and used labelled Twitter data to train a fake news classifier and a model that could forecast the further circulation of existing Tweets.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2020-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
