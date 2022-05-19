@@ -3,7 +3,7 @@ title: Debiasing Toxic Language Classifiers
 summary: Created a method for minimising identity-related biases in toxic language classifiers by manipulating the sentence embeddings of online comments.
 tags:
   - Deep Learning
-date: '2020-05-01T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
