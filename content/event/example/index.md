@@ -4,7 +4,7 @@ title: Mapping the World's Offline Population
 event: Spatial Data Science Conference
 event_url: https://spatial-data-science-conference.com
 
-location: Virtual
+# location: Virtual
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'SDC'
   focal_point: Right
 
 links:
