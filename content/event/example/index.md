@@ -34,7 +34,7 @@ image:
   caption: 'SDC'
   focal_point: Right
 
-links:
+# links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
