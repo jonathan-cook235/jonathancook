@@ -2,7 +2,7 @@
 title: Mapping the World's Offline Population
 summary: Setup an open-source data gathering pipeline to gather Internet connectivity predictors and used proprietary survey data provided by several national governments as ground-truth labels. Built and compared various machine learning models to predict the presence of offline populations using this data. Deployed the best-performing model, for use by the UN's International Telecommunications Union and UNICEF, and presented findings to affiliated national governments.
 tags:
-  - Other
+  - Demo
 date: '2021-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
