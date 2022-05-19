@@ -1,5 +1,5 @@
 ---
-title: Leveraging Time-Dependent Lexical Features for Offensive Language Detection
+title: Detecting Offensive Language Informed by Language Change
 summary: Built a deep learning model for lexical semantic change detection (i.e., the detection of changes in word meanings) and used its predictions, along with other time-varying lexical and statistical language features, as additional inputs into another neural network that performs offensive language detection.
 tags:
   - NLP
