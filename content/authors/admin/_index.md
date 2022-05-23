@@ -21,13 +21,12 @@ interests:
   - Artificial Intelligence
   - Deep Reinforcement Learning
   - Multi-Agent Systems
+  - Natural Language Processing
+  - Probabilistic Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: DPhil in Autonomous Intelligent Machines and Systems (CDT)
-      institution: University of Oxford
-      year: Commencing October 2022
     - course: MSc in Computational Statistics and Machine Learning
       institution: University College London
       year: In Progress
@@ -70,6 +69,6 @@ email: 'jonathan.cook.18@ucl.ac.uk'
 highlight_name: true
 ---
 
-I'm currently a Master's student, studying Computational Statistics and Machine Learning at UCL. I'm incredibly grateful to be funded and mentored by DeepMind. Often, I can be found at the UCL AI Centre, where I am supervised by Prof. Tim Rocktäschel at UCL Deciding, Acting and Reasoning with Knowledge (DARK) Lab. Right now, my research focuses on the generalisation capabilities of deep multi-agent reinforcement learning models, but I'm also deeply interested in the Collaborative AI research agenda; the problem of human-AI coordination in real-world systems; and how artificial agents can learn grounded communication strategies. I'm excited to explore these and other problems further when I begin studying for a PhD as part of the Autonomous Intelligent Machines and Systems CDT cohort at the University of Oxford, starting this Autumn.
+I'm currently a Master's student, studying Computational Statistics and Machine Learning at UCL. I'm incredibly grateful to be funded and mentored by DeepMind. Often, I can be found at the UCL AI Centre, where I am supervised by Prof. Tim Rocktäschel at UCL Deciding, Acting and Reasoning with Knowledge (DARK) Lab. Right now, my research focuses on the generalisation capabilities of deep multi-agent reinforcement learning models, but I'm also deeply interested in the Collaborative AI research agenda; the problem of human-AI coordination in real-world systems; natural language understanding and probabilistic machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
